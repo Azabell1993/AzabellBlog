@@ -99,8 +99,51 @@
 			</ul>
 		</nav>
 		
+		
+		
 <body>
 
-		<h>방명록....</h>
+		
+		<section class="wrapper style1 align-center">
+			<h3><strong>방명록</strong></h3>
+			<form action="./writeboard.jsp" method="post">
+			<div class ="container">
+				<div class="row">
+					<table class="table table=scripted" style="text-align:center; border : 1px solid=#dddddd">
+						<thread>
+							<tr>
+								<th style="background-color: #eeeeee; text-align: center;"> 번   호 </th> 
+								<th style="background-color: #eeeeee; text-align: center;"> 제   목 </th> 
+								<th style="background-color: #eeeeee; text-align: center;"> 작 성 자 </th> 
+								<th style="background-color: #eeeeee; text-align: center;"> 작 성 일 </th> 
+							</tr>
+						</thread>
+						
+						<tbody>
+							<tr>
+								<td>1</td>
+								<td>안녕하세요.</td>
+								<td>홍 길 동</td>
+								<td>2022-05-09</td>
+							</tr>
+						</tbody>
+						
+						<section class="login-input-section-wrap">
+							<div class="login-button-wrap">
+								<button>글 쓰 기</button>
+							</div>
+							<br/>
+					</section>
+									
+					</table>
+			</div></div></form>
+		</section>
 </body>
 </html>
+
+
+
+
+
+
+

@@ -24,9 +24,19 @@
 				</div>
 			</header>
 		     	<section class="login-input-section-wrap">
+					<!-- 
+					  <div>
+					    <label>아이디<input type="text" name="udi" id="uid"></label>
+					    <button type="button" onclick="id_check();">중복확인</button>
+					  </div>
+					  <div><label>비밀번호<input type="password" name="pwd" id="pwd" placeholder="영문자+숫자+특수문자 조합"></label></div>
+					  <div><label>비밀번호 재확인<input type="password" name="repwd" id="repwd"></label></div>
+					  <div><label>이름<input type="text" name="uname" id="uname"></label></div>
+					  <div>
+					 -->
+					
 					<div class="login-input-wrap">
 							<!-- 아이디 :  --><input type="text" name="userID" id="userID" placeholder="아이디는 수정 불가합니다." maxlength=20/><span id="idMessage" ></span><br />
-							
 					</div>
 					<div class="login-input-wrap">
 						<!-- 비밀번호 :  --><input type="password" name="userPassword" id="userPassword" placeholder="비밀번호 입력"/><span id="pwdMessage"></span><br />

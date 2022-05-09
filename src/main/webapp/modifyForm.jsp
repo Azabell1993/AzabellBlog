@@ -33,7 +33,7 @@
 			<input type="email" name="userEmail" id="userEmail" value="<%=vo.getUserEmail() %>" /><br />
 		</div>
 		<div class="login-input-wrap">
-			<input name="userGender" id="userGender" value="MALE"  readonly="readonly"  checked>
+			<input name="userGender" id="userGender" value="<%=vo.getUserGender() %>"  readonly="readonly"  checked>
 		</div>
 		
 			<div class="join-button-wrap password-wrap">

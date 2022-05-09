@@ -102,15 +102,23 @@
 	<body class="is-preload">
 		<!-- Wrapper -->
 		<div id="rwapper" class="divdied">
-			<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
-				<div class="content">
-					<h2>반갑습니다.</h2><h1>jiwoclang</h1><h2>에 오신 것을 환영합니다.</h2>
-					<div class="colorscripter-code" style="color:#010101;font-family:Consolas, 'Liberation Mono', Menlo, Courier, monospace !important; position:relative !important;overflow:auto"><table class="colorscripter-code-table" style="margin:0;padding:0;border:none;background-color:#fafafa;border-radius:4px;" cellspacing="0" cellpadding="0"><tr><td style="padding:6px;border-right:2px solid #e5e5e5"><div style="margin:0;padding:0;word-break:normal;text-align:right;color:#666;font-family:Consolas, 'Liberation Mono', Menlo, Courier, monospace !important;line-height:120%"><div style="line-height:120%">1</div><div style="line-height:120%">2</div><div style="line-height:120%">3</div><div style="line-height:120%">4</div><div style="line-height:120%">5</div><div style="line-height:120%">6</div><div style="line-height:120%">7</div><div style="line-height:120%">8</div><div style="line-height:120%">9</div><div style="line-height:120%">10</div><div style="line-height:120%">11</div><div style="line-height:120%">12</div><div style="line-height:120%">13</div><div style="line-height:120%">14</div><div style="line-height:120%">15</div><div style="line-height:120%">16</div><div style="line-height:120%">17</div><div style="line-height:120%">18</div><div style="line-height:120%">19</div><div style="line-height:120%">20</div><div style="line-height:120%">21</div><div style="line-height:120%">22</div><div style="line-height:120%">23</div><div style="line-height:120%">24</div><div style="line-height:120%">25</div><div style="line-height:120%">26</div><div style="line-height:120%">27</div><div style="line-height:120%">28</div><div style="line-height:120%">29</div><div style="line-height:120%">30</div><div style="line-height:120%">31</div><div style="line-height:120%">32</div><div style="line-height:120%">33</div><div style="line-height:120%">34</div><div style="line-height:120%">35</div><div style="line-height:120%">36</div><div style="line-height:120%">37</div><div style="line-height:120%">38</div><div style="line-height:120%">39</div><div style="line-height:120%">40</div><div style="line-height:120%">41</div><div style="line-height:120%">42</div><div style="line-height:120%">43</div><div style="line-height:120%">44</div><div style="line-height:120%">45</div><div style="line-height:120%">46</div><div style="line-height:120%">47</div><div style="line-height:120%">48</div><div style="line-height:120%">49</div></div></td><td style="padding:6px 0;text-align:left"><div style="margin:0;padding:0;color:#010101;font-family:Consolas, 'Liberation Mono', Menlo, Courier, monospace !important;line-height:120%"><div style="padding:0 6px; white-space:pre; line-height:120%"><span style="color:#a71d5d">typedef</span>&nbsp;<span style="color:#a71d5d">struct</span>&nbsp;MEMBER&nbsp;{</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a71d5d">struct</span>&nbsp;MEMBER<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>&nbsp;<span style="color:#a71d5d">this</span>;</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a71d5d">struct</span>&nbsp;MEMBER_NAME<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>&nbsp;member_name;</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a71d5d">struct</span>&nbsp;SCHOOL_NAME<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>&nbsp;school_name;</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a71d5d">struct</span>&nbsp;MEMBER_NAME&nbsp;{</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a71d5d">struct</span>&nbsp;MEMBER<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>&nbsp;<span style="color:#a71d5d">this</span>;</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#066de2">int</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;select_name_number_;</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MEMBER_NAME<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>&nbsp;member_name;</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a71d5d">void</span>&nbsp;&nbsp;&nbsp;&nbsp;(<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>SET_NAME)(<span style="color:#a71d5d">struct</span>&nbsp;MEMBER_NAME<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>&nbsp;select_name,&nbsp;<span style="color:#066de2">int</span>&nbsp;select_name_number);</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#066de2">int</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>GET_NAME)(<span style="color:#a71d5d">const</span>&nbsp;<span style="color:#a71d5d">struct</span>&nbsp;MEMBER_NAME<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>&nbsp;select_name);</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a71d5d">void</span>&nbsp;&nbsp;&nbsp;&nbsp;(<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>NAMEINIT)(MEMBER<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>&nbsp;name_init);</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;MEMBER_NAME;</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a71d5d">struct</span>&nbsp;SCHOOL_NAME&nbsp;{</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a71d5d">struct</span>&nbsp;MEMBER<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>&nbsp;<span style="color:#a71d5d">this</span>;</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#066de2">int</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;select_school_number_;</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SCHOOL_NAME<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>&nbsp;school_name;</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a71d5d">void</span>&nbsp;&nbsp;&nbsp;&nbsp;(<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>SET_SCHOOL_NAME)(<span style="color:#a71d5d">struct</span>&nbsp;SCHOOL_NAME<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>&nbsp;select_school_name,&nbsp;<span style="color:#066de2">int</span>&nbsp;select_school_number);</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#066de2">int</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>GET_SCHOOL_NAME)(<span style="color:#a71d5d">const</span>&nbsp;<span style="color:#a71d5d">struct</span>&nbsp;SCHOOL_NAME<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>&nbsp;select_school_name);</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a71d5d">void</span>&nbsp;&nbsp;&nbsp;&nbsp;(<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>SCHOOLINIT)(MEMBER<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>&nbsp;school_init);</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;SCHOOL_NAME;</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#066de2">int</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HAKBUN_;</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#066de2">int</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AGE_;</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#066de2">int</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INIT_DATE_;</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#066de2">int</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OUT_DATE_;</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a71d5d">void</span>&nbsp;&nbsp;&nbsp;&nbsp;(<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>PRINT_DATA)(<span style="color:#a71d5d">const</span>&nbsp;MEMBER<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>&nbsp;<span style="color:#a71d5d">this</span>,&nbsp;<span style="color:#a71d5d">const</span>&nbsp;MEMBER_NAME<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>&nbsp;select_name,&nbsp;<span style="color:#a71d5d">const</span>&nbsp;SCHOOL_NAME<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>&nbsp;select_school_name);</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a71d5d">void</span>&nbsp;&nbsp;&nbsp;&nbsp;(<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>MEMBER_SET)</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a71d5d">struct</span>&nbsp;MEMBER<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>&nbsp;<span style="color:#a71d5d">this</span>,</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a71d5d">struct</span>&nbsp;MEMBER_NAME<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>&nbsp;select_name,</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a71d5d">struct</span>&nbsp;SCHOOL_NAME<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>&nbsp;select_school_name,</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a71d5d">const</span>&nbsp;&nbsp;&nbsp;<span style="color:#066de2">int</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HAKBUN,</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a71d5d">const</span>&nbsp;&nbsp;&nbsp;<span style="color:#066de2">int</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AGE,</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a71d5d">const</span>&nbsp;&nbsp;&nbsp;<span style="color:#066de2">int</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INIT_DATE,</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a71d5d">const</span>&nbsp;&nbsp;&nbsp;<span style="color:#066de2">int</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OUT_DATE</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;);</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#066de2">int</span>&nbsp;&nbsp;(<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>MEMBER_GET)(<span style="color:#a71d5d">const</span>&nbsp;<span style="color:#a71d5d">struct</span>&nbsp;MEMBER<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>&nbsp;<span style="color:#a71d5d">this</span>,&nbsp;MEMBER_NAME<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>&nbsp;select_name,&nbsp;SCHOOL_NAME<span style="color:#ff3399"></span><span style="color:#a71d5d">*</span>&nbsp;select_school_name);</div><div style="padding:0 6px; white-space:pre; line-height:120%">&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#999999">/*</span></div><div style="padding:0 6px; white-space:pre; line-height:120%"><span style="color:#999999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;void&nbsp;&nbsp;&nbsp;&nbsp;NAME_INIT(struct&nbsp;MEMBER*&nbsp;this)</span></div><div style="padding:0 6px; white-space:pre; line-height:120%"><span style="color:#999999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;void&nbsp;&nbsp;&nbsp;&nbsp;SCHOOL_INIT(struct&nbsp;SCHOOL_NAME*&nbsp;this)</span></div><div style="padding:0 6px; white-space:pre; line-height:120%"><span style="color:#999999">&nbsp;&nbsp;&nbsp;&nbsp;*/</span></div><div style="padding:0 6px; white-space:pre; line-height:120%">}&nbsp;MEMBER;</div></div><div style="text-align:right;margin-top:-13px;margin-right:5px;font-size:9px;font-style:italic"><a href="http://colorscripter.com/info#e" target="_blank" style="color:#e5e5e5text-decoration:none">Colored by Color Scripter</a></div></td><td style="vertical-align:bottom;padding:0 2px 4px 0"><a href="http://colorscripter.com/info#e" target="_blank" style="text-decoration:none;color:white"><span style="font-size:9px;word-break:normal;background-color:#e5e5e5;color:white;border-radius:10px;padding:1px">cs</span></a></td></tr></table></div>
-				</div>	
-				</section>
-		</div>
-			<div id="wrapper" class="divided">
+	
+		<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="zero">
+						<div class="content">
+							<h2>반갑습니다.</h2><h1><strong>jiwoclang</strong></h1><h2>에 오신 것을 환영합니다.</h2><br/>
+							<h2>시스템 개발자가 만든 C언어를 비롯한 저수준의 패러다임 구현 강의 블로그입니다.</h2>
+							<ul class="actions stacked">
+								<li><a href="#one" class="button">Get Started</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/c_struct.png" alt="" />
+						</div>
+					</section>
+					
+		
 
+		
 				<!-- One -->
 					<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
 						<div class="content">
@@ -118,7 +126,7 @@
 							<h2>Position : System, Backend</h2>
 							<p class="major"> 항상 좀 더 나은 시스템 설계와 프로그래밍을 위해 노력하는 프로그래머입니다.  </p>
 							<ul class="actions stacked">
-								<li><a href="#one" class="button big wide smooth-scroll-middle">Get Started</a></li>
+								<li><a href="#one" class="button big wide smooth-scroll-middle">LEARN MORE</a></li>
 							</ul>
 						</div>
 						<div class="image">
@@ -230,83 +238,13 @@
 								</article>
 							</div><!-- class="gallery style2 medium lightbox onscroll-fade-in"  -->
 					</section>
-
-				<!-- Six -->
-					<!-- <section class="wrapper style1 align-center">
-						<div class="inner">
-							<h2>강점 소개</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum.</p>
-							<div class="items style1 medium onscroll-fade-in">
-								<section>
-									<span class="icon style2 major fa-gem"></span>
-									<h3>Lorem</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon solid style2 major fa-save"></span>
-									<h3>Ipsum</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon solid style2 major fa-chart-bar"></span>
-									<h3>Dolor</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon solid style2 major fa-wifi"></span>
-									<h3>Amet</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon solid style2 major fa-cog"></span>
-									<h3>Magna</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon style2 major fa-paper-plane"></span>
-									<h3>Tempus</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon solid style2 major fa-desktop"></span>
-									<h3>Aliquam</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon solid style2 major fa-sync-alt"></span>
-									<h3>Elit</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon solid style2 major fa-hashtag"></span>
-									<h3>Morbi</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon solid style2 major fa-bolt"></span>
-									<h3>Turpis</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon solid style2 major fa-envelope"></span>
-									<h3>Ultrices</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon solid style2 major fa-leaf"></span>
-									<h3>Risus</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-							</div> 
-						</div>
-					</section>
- 				-->
- 				
+					
 				<!-- Seven -->
 					<section class="wrapper style1 align-center">
 						<div class="inner medium">
-							<h2>Get in touch</h2>
-							<form method="post" action="#">
+							<h2>개발자에게 이메일 보내기</h2>
+							<form method="post" data-email="jeewoo19930315@gmail.com" 
+							action="https://script.google.com/macros/s/AKfycbw9nViNyDWtZrixXi0WqFVoTX2aeLdcExZsOMy22w/exec">
 								<div class="fields">
 									<div class="field half">
 										<label for="name">Name</label>
@@ -322,10 +260,12 @@
 									</div>
 								</div>
 								<ul class="actions special">
-									<li><input type="submit" name="submit" id="submit" value="Send Message" /></li>
+									<!-- <li><input type="submit" name="submit" id="submit" value="Send Message" /></li> -->
+									<button class="button-success pure-button button-xlarge">
+        								<i class="fa fa-paper-plane"></i>&nbsp;Send</button>
+    								</div>
 								</ul>
 							</form>
-
 						</div>
 					</section>
 
@@ -337,7 +277,6 @@
 								<li><a href="#" class="icon brands style2 fa-youtube"><span class="label">Youtube</span></a></li>
 								<li><a href="#" class="icon style2 fa-envelope"><span class="label">Email</span></a></li>
 							</ul>
-							<p>&copy; Untitled. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
 						</div>
 					</footer>
 
@@ -351,6 +290,5 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-
 	</body>
 </html>
